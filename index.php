@@ -1,4 +1,3 @@
-<!-- i6GStXgi8dCIy5GHzEsLRyiKvrjHasQK -->
 <?php
 if (array_key_exists('submit', $_GET)) {
   if (!$_GET['amount']) {
